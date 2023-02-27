@@ -1,0 +1,12 @@
+[submodule "libchamp"]
+	path = libchamp
+	url = https://github.com/chvmp/libchamp
+[submodule "src/champ"]
+	path = src/champ
+	url = https://github.com/chvmp/libchamp
+[submodule "src/robots"]
+	path = src/robots
+	url = https://github.com/chvmp/robots
+[submodule "src/spot_ros"]
+	path = src/spot_ros
+	url = https://github.com/chvmp/spot_ros

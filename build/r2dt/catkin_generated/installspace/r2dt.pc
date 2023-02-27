@@ -1,0 +1,8 @@
+prefix=/home/pg220823/r1_wiki_ws/install
+
+Name: r2dt
+Description: Description of r2dt
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
